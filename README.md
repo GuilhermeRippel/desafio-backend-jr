@@ -42,6 +42,6 @@ Criar um programa que, a partir de faixas de CEPs e conexões entre cidades com 
 
 Para executar os desafios
  # Parte 1
-ts-node src/parte1.ts
+npm run start:desafio1
 # Parte 2
-ts-node src/parte2.ts
+npm run start:desafio2
