@@ -36,7 +36,7 @@ Criar um programa que, a partir de faixas de CEPs e conexões entre cidades com 
 
   1. Clone este repositório
 ```bash
-1 git clone https://github.com/GuilhermeRippel/desafio-backend.git
+1 git clone https://github.com/GuilhermeRippel/desafio-backend-jr.git
 2 cd desafio-backend
 3 npm install
 
